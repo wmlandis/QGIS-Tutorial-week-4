@@ -14,9 +14,9 @@
 	* ITA_roads.shp; change the color and width of the lines so they are easier to see, if needed.
 
 6. Look at the attribute table of ITA_adm1.shp. These show the country’s regions. Note which one of the columns gives the name of the region. Note the name of that column. Close the attribute table. Go into the “properties” for ITA_adm1.shp into “labels”. Change so that your map shows the names of the regions in a large font.
-7. Open the *1870 Brue Map of Italy.* Import this file as a raster layer in QGIS.
+7. Download the *1870 Brue Map of Italy* from Blackboard. Open the *1870 Brue Map of Italy.* Import this file as a raster layer in QGIS.
 8. Go back to ITA_adm0.shp and ITA+adm1/shp and change the width of the lines so they are visible.
 9. In the left-hand “layers” panel, drag the map layer so you can see the parish lines of the historical map.
-10. Open the *Charles Scribner’s Sons 1890 Map of Italy.* Import this file as a raster layer in QGIS. Drag it in the “layers” panel just as you did the last map.
+10. Download the *Scribner Map 1890* from Blackboard. Open the *Scribner Map 1890*. Import this file as a raster layer in QGIS. Drag it in the “layers” panel just as you did the last map.
 11. Go back into the Properties of your various layers. Play with border width and labels, and re-order your layers, to get a feel for the various ways you can manipulate maps in QGIS.
 12. Save your work. Close QGIS.
